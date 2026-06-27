@@ -25,7 +25,7 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **1** |
+| SQL | **1** |
 
 ## 📂 Repository Structure
 
